@@ -1,11 +1,10 @@
-<script>
 
     /**
      * This mixin provides the fields and methods necessary to support a text field.
      * @polymerMixin
      * @mixinFunction
      */
-    const AspFldMixin = (superclass) => class extends superclass {
+    export const AspenFieldMixin = (superclass) => class extends superclass {
         
         static get properties(){
             return {
@@ -44,4 +43,3 @@
         }
     }
 
-</script>
