@@ -1,6 +1,7 @@
-# \<aspen-text-field\>
+# <aspen-text-field\>
 
-description goes here
+This component is a simple text field with an optional associated icon.
+
 
 ## Install the Polymer-CLI
 
